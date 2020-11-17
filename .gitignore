@@ -24,3 +24,7 @@ autom4te.cache
 ar-lib
 gen_code
 ta_regtest
+bin
+lib
+temp
+
